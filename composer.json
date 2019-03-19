@@ -1,0 +1,9 @@
+{
+  "name": "anchorfree/test",
+  "version": "0.1",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1",
+    "ext-mysqli": "*"
+  }
+}

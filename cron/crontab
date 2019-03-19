@@ -1,0 +1,1 @@
+1 0 * * * cd /var/www/anchorfree-test && /usr/bin/php cron/init_new_date.php > /tmp/init_new_date.log 2>&1
